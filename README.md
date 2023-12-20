@@ -1,4 +1,4 @@
-# Japanese-ExcelSheet-Automation
+# Japanese-Excel-Spreadsheet-Automation
 The program processes an excel spreadsheet in Japanese characters by splitting the spreadsheet into multiple spreadsheets based on column 2 within the first 3 pages. This potentially saves numerous hours of work every quarter year. The script is compiled to an executable file for ease of usage for non-programmers.
 
 ## Setting up the executable
